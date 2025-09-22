@@ -1,0 +1,11 @@
+.blue-background {
+    background-color: #0033ff;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.green-background {
+    background-color: #3fa100;
+    color: #ff0000;
+    padding: 5px;
+}
